@@ -47,9 +47,9 @@ export const projectsData: Project[] = [
   },
   {
     id: 2,
-    title: "Tours and Travels with Vendor Management",
+    title: "Tours & Travel Platform with Shop, Vendors & M-Pesa Payments",
     description:
-      "A full-stack tour and travel website with vendor management and booking capabilities. Utilized mpesa for secure payments and implemented a dynamic admin dashboard for managing vendors and tours.",
+      "A complete tours and travel platform featuring an online shop, vendor management, and seamless M-Pesa payments built for modern businesses.",
     tags: ["React", "Laravel", "TypeScript", "Tailwind CSS", "PostgreSQL"],
     imageUrl: "/projects/project2.png",
     demoUrl: "https://www.journeypalette.co.ke/",

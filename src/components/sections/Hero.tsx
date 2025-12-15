@@ -51,6 +51,7 @@ export default function Hero() {
           <span className="text-gold">React (Next.js)</span>
           <span className="text-gold">, TypeScript</span>
           <span className="text-gold">, PHP (Laravel)</span>
+          <span className="text-gold">, Python</span>
           <span className="text-gold">, Tailwind CSS</span> {" "}
            and{" "}
           <span className="text-gold">React Native</span>.

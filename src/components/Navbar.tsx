@@ -46,13 +46,13 @@ export default function Navbar() {
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gold transition-all group-hover:w-full" />
             </Link>
           ))}
-          <Link
+          {/* <Link
             href="/resume.pdf"
             target="_blank"
             className="border border-gold text-gold px-4 py-2 rounded text-sm font-mono hover:bg-gold/10 transition-colors"
           >
             Resume
-          </Link>
+          </Link> */}
         </nav>
 
         {/* Mobile Menu Button */}
@@ -88,12 +88,12 @@ export default function Navbar() {
                   {link.name}
                 </Link>
               ))}
-              <Link
+              {/* <Link
                 href="/resume.pdf"
                 className="mt-4 border border-gold text-gold px-8 py-3 rounded text-lg font-mono hover:bg-gold/10 transition-colors"
               >
                 Resume
-              </Link>
+              </Link> */}
             </nav>
           </motion.div>
         )}
