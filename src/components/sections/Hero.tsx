@@ -48,10 +48,10 @@ export default function Hero() {
           I am a software developer specializing in building exceptional digital
           experiences. Currently, I am focused on building accessible,
           human-centered products using{" "}
-          <span className="text-gold">React (Next.js)</span>
-          <span className="text-gold">, TypeScript</span>
           <span className="text-gold">, PHP (Laravel)</span>
           <span className="text-gold">, Python</span>
+          <span className="text-gold">, TypeScript</span>
+          <span className="text-gold">React (Next.js)</span>
           <span className="text-gold">, Tailwind CSS</span> {" "}
            and{" "}
           <span className="text-gold">React Native</span>.
